@@ -1,0 +1,10 @@
+{
+  "name": "launch-js-ipfs-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs": "^0.27.7",
+    "wrtc": "^0.0.66"
+  }
+}
